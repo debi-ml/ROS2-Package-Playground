@@ -42,6 +42,9 @@ qtcreator-*
 /planning/docs
 /planning/src
 
+# Ignore Python cache directories
+*.pyc
+__pycache__/
 *~
 
 # Emacs
