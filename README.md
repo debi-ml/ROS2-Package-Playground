@@ -7,8 +7,6 @@ Welcome to the ROS2 Playground Repository! This repository is designed to help y
 - [Installation](#installation)
 - [Usage](#usage)
 - [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
